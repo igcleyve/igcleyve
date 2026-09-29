@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Olá, eu sou o Igor Cleyve 👋
+
+Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência na criação de landing pages e aplicações web full stack.
+
+### 🛠️ Tecnologias e Ferramentas
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript
+- **Backend & Banco de Dados:** Java, Supabase, Node.js
+- **Ferramentas:** VS Code, Git, GitHub, Figma
